@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bottom Edge
+  - Paddle
+  - Brick
+  - Life Powerup
+  - Death Powerup
+  - Split Powerup
+  - Ball Clone
+  - Ball Position
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ball
+  - Ball Clone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ball
+    uniqueID: 2515802963
+    locked: 0
+  - name: Paddle
+    uniqueID: 1079849257
+    locked: 0
+  - name: Instructions Screen
+    uniqueID: 451894635
+    locked: 0
